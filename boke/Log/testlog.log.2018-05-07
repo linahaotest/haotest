@@ -1,0 +1,120 @@
+[2018-05-07 19:24:02] [INFO] 启动chromeDriver
+[2018-05-07 19:24:07] [INFO] 打开网址http://127.0.0.1:8090/bbs/forum.php
+[2018-05-07 19:24:07] [INFO] 查找到相应元素: id: ls_username
+[2018-05-07 19:24:07] [INFO] 查找到相应元素: id: ls_username
+[2018-05-07 19:24:07] [INFO] 清空元素： id: ls_username上的内容
+[2018-05-07 19:24:07] [INFO] 在元素 id: ls_username上输入内容：admin
+[2018-05-07 19:24:07] [INFO] 查找到相应元素: id: ls_password
+[2018-05-07 19:24:07] [INFO] 查找到相应元素: id: ls_password
+[2018-05-07 19:24:07] [INFO] 清空元素： id: ls_password上的内容
+[2018-05-07 19:24:08] [INFO] 在元素 id: ls_password上输入内容：password
+[2018-05-07 19:24:08] [INFO] 查找到相应元素: xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-07 19:24:08] [INFO] 对元素 xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button做点击操作
+[2018-05-07 19:31:30] [INFO] 启动chromeDriver
+[2018-05-07 19:31:35] [INFO] 打开网址http://127.0.0.1:8090/bbs/forum.php
+[2018-05-07 19:31:35] [INFO] 查找到相应元素: id: ls_username
+[2018-05-07 19:31:35] [INFO] 查找到相应元素: id: ls_username
+[2018-05-07 19:31:35] [INFO] 清空元素： id: ls_username上的内容
+[2018-05-07 19:31:36] [INFO] 在元素 id: ls_username上输入内容：admin
+[2018-05-07 19:31:36] [INFO] 查找到相应元素: id: ls_password
+[2018-05-07 19:31:36] [INFO] 查找到相应元素: id: ls_password
+[2018-05-07 19:31:36] [INFO] 清空元素： id: ls_password上的内容
+[2018-05-07 19:31:36] [INFO] 在元素 id: ls_password上输入内容：password
+[2018-05-07 19:31:36] [INFO] 查找到相应元素: xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-07 19:31:36] [INFO] 对元素 xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button做点击操作
+[2018-05-07 19:31:45] [INFO] 启动chromeDriver
+[2018-05-07 19:31:49] [INFO] 打开网址http://127.0.0.1:8090/bbs/forum.php
+[2018-05-07 19:31:49] [INFO] 查找到相应元素: id: ls_username
+[2018-05-07 19:31:49] [INFO] 查找到相应元素: id: ls_username
+[2018-05-07 19:31:49] [INFO] 清空元素： id: ls_username上的内容
+[2018-05-07 19:31:49] [INFO] 在元素 id: ls_username上输入内容：admin1
+[2018-05-07 19:31:50] [INFO] 查找到相应元素: id: ls_password
+[2018-05-07 19:31:50] [INFO] 查找到相应元素: id: ls_password
+[2018-05-07 19:31:50] [INFO] 清空元素： id: ls_password上的内容
+[2018-05-07 19:31:50] [INFO] 在元素 id: ls_password上输入内容：password1
+[2018-05-07 19:31:50] [INFO] 查找到相应元素: xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-07 19:31:50] [INFO] 对元素 xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button做点击操作
+[2018-05-07 20:41:16] [INFO] 启动chromeDriver
+[2018-05-07 20:41:26] [INFO] 打开网址http://127.0.0.1:8090/bbs/forum.php
+[2018-05-07 20:41:26] [INFO] 查找到相应元素: id: ls_username
+[2018-05-07 20:41:26] [INFO] 查找到相应元素: id: ls_username
+[2018-05-07 20:41:26] [INFO] 清空元素： id: ls_username上的内容
+[2018-05-07 20:41:26] [INFO] 在元素 id: ls_username上输入内容：admin
+[2018-05-07 20:41:26] [INFO] 查找到相应元素: id: ls_password
+[2018-05-07 20:41:26] [INFO] 查找到相应元素: id: ls_password
+[2018-05-07 20:41:27] [INFO] 清空元素： id: ls_password上的内容
+[2018-05-07 20:41:27] [INFO] 在元素 id: ls_password上输入内容：123456
+[2018-05-07 20:41:27] [INFO] 查找到相应元素: xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-07 20:41:27] [INFO] 对元素 xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button做点击操作
+[2018-05-07 20:42:23] [INFO] 启动chromeDriver
+[2018-05-07 20:42:28] [INFO] 打开网址http://127.0.0.1:8090/bbs/forum.php
+[2018-05-07 20:42:28] [INFO] 查找到相应元素: id: ls_username
+[2018-05-07 20:42:28] [INFO] 查找到相应元素: id: ls_username
+[2018-05-07 20:42:29] [INFO] 清空元素： id: ls_username上的内容
+[2018-05-07 20:42:29] [INFO] 在元素 id: ls_username上输入内容：admin
+[2018-05-07 20:42:29] [INFO] 查找到相应元素: id: ls_password
+[2018-05-07 20:42:29] [INFO] 查找到相应元素: id: ls_password
+[2018-05-07 20:42:29] [INFO] 清空元素： id: ls_password上的内容
+[2018-05-07 20:42:29] [INFO] 在元素 id: ls_password上输入内容：password
+[2018-05-07 20:42:29] [INFO] 查找到相应元素: xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-07 20:42:29] [INFO] 对元素 xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button做点击操作
+[2018-05-07 20:42:44] [INFO] 启动chromeDriver
+[2018-05-07 20:42:48] [INFO] 打开网址http://127.0.0.1:8090/bbs/forum.php
+[2018-05-07 20:42:48] [INFO] 查找到相应元素: id: ls_username
+[2018-05-07 20:42:48] [INFO] 查找到相应元素: id: ls_username
+[2018-05-07 20:42:48] [INFO] 清空元素： id: ls_username上的内容
+[2018-05-07 20:42:49] [INFO] 在元素 id: ls_username上输入内容：admin
+[2018-05-07 20:42:49] [INFO] 查找到相应元素: id: ls_password
+[2018-05-07 20:42:49] [INFO] 查找到相应元素: id: ls_password
+[2018-05-07 20:42:49] [INFO] 清空元素： id: ls_password上的内容
+[2018-05-07 20:42:49] [INFO] 在元素 id: ls_password上输入内容：123456
+[2018-05-07 20:42:49] [INFO] 查找到相应元素: xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-07 20:42:49] [INFO] 对元素 xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button做点击操作
+[2018-05-07 20:44:30] [INFO] 启动chromeDriver
+[2018-05-07 20:44:34] [INFO] 打开网址http://127.0.0.1:8090/bbs/forum.php
+[2018-05-07 20:44:34] [INFO] 查找到相应元素: id: ls_username
+[2018-05-07 20:44:34] [INFO] 查找到相应元素: id: ls_username
+[2018-05-07 20:44:34] [INFO] 清空元素： id: ls_username上的内容
+[2018-05-07 20:44:34] [INFO] 在元素 id: ls_username上输入内容：admin
+[2018-05-07 20:44:34] [INFO] 查找到相应元素: id: ls_password
+[2018-05-07 20:44:34] [INFO] 查找到相应元素: id: ls_password
+[2018-05-07 20:44:34] [INFO] 清空元素： id: ls_password上的内容
+[2018-05-07 20:44:34] [INFO] 在元素 id: ls_password上输入内容：password
+[2018-05-07 20:44:34] [INFO] 查找到相应元素: xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-07 20:44:34] [INFO] 对元素 xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button做点击操作
+[2018-05-07 20:44:45] [INFO] 启动chromeDriver
+[2018-05-07 20:44:50] [INFO] 打开网址http://127.0.0.1:8090/bbs/forum.php
+[2018-05-07 20:44:50] [INFO] 查找到相应元素: id: ls_username
+[2018-05-07 20:44:50] [INFO] 查找到相应元素: id: ls_username
+[2018-05-07 20:44:50] [INFO] 清空元素： id: ls_username上的内容
+[2018-05-07 20:44:50] [INFO] 在元素 id: ls_username上输入内容：admin
+[2018-05-07 20:44:50] [INFO] 查找到相应元素: id: ls_password
+[2018-05-07 20:44:50] [INFO] 查找到相应元素: id: ls_password
+[2018-05-07 20:44:50] [INFO] 清空元素： id: ls_password上的内容
+[2018-05-07 20:44:50] [INFO] 在元素 id: ls_password上输入内容：123456
+[2018-05-07 20:44:50] [INFO] 查找到相应元素: xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-07 20:44:50] [INFO] 对元素 xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button做点击操作
+[2018-05-07 20:46:41] [INFO] 启动chromeDriver
+[2018-05-07 20:46:47] [INFO] 打开网址http://127.0.0.1:8090/bbs/forum.php
+[2018-05-07 20:46:47] [INFO] 查找到相应元素: id: ls_username
+[2018-05-07 20:46:47] [INFO] 查找到相应元素: id: ls_username
+[2018-05-07 20:46:48] [INFO] 清空元素： id: ls_username上的内容
+[2018-05-07 20:46:48] [INFO] 在元素 id: ls_username上输入内容：admin
+[2018-05-07 20:46:48] [INFO] 查找到相应元素: id: ls_password
+[2018-05-07 20:46:48] [INFO] 查找到相应元素: id: ls_password
+[2018-05-07 20:46:48] [INFO] 清空元素： id: ls_password上的内容
+[2018-05-07 20:46:48] [INFO] 在元素 id: ls_password上输入内容：password
+[2018-05-07 20:46:48] [INFO] 查找到相应元素: xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-07 20:46:48] [INFO] 对元素 xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button做点击操作
+[2018-05-07 20:46:54] [INFO] 启动chromeDriver
+[2018-05-07 20:46:59] [INFO] 打开网址http://127.0.0.1:8090/bbs/forum.php
+[2018-05-07 20:46:59] [INFO] 查找到相应元素: id: ls_username
+[2018-05-07 20:46:59] [INFO] 查找到相应元素: id: ls_username
+[2018-05-07 20:46:59] [INFO] 清空元素： id: ls_username上的内容
+[2018-05-07 20:46:59] [INFO] 在元素 id: ls_username上输入内容：admin
+[2018-05-07 20:46:59] [INFO] 查找到相应元素: id: ls_password
+[2018-05-07 20:46:59] [INFO] 查找到相应元素: id: ls_password
+[2018-05-07 20:47:00] [INFO] 清空元素： id: ls_password上的内容
+[2018-05-07 20:47:00] [INFO] 在元素 id: ls_password上输入内容：123456
+[2018-05-07 20:47:00] [INFO] 查找到相应元素: xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-07 20:47:00] [INFO] 对元素 xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button做点击操作
